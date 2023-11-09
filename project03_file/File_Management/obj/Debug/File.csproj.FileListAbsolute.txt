@@ -1,0 +1,24 @@
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\bin\Debug\File_Management.exe.config
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\bin\Debug\File_Management.exe
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\bin\Debug\File_Management.pdb
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\obj\Debug\File_Management.InputBox.resources
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\obj\Debug\File_Management.WriteName.resources
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\obj\Debug\File_Management.MainWindows.resources
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\obj\Debug\File_Management.Properties.Resources.resources
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\obj\Debug\File.csproj.GenerateResource.cache
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\obj\Debug\File.csproj.CoreCompileInputs.cache
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\obj\Debug\File_Management.exe
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\obj\Debug\File_Management.pdb
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\obj\Debug\File.csproj.AssemblyReference.cache
+C:\Users\sjm\Desktop\大二下\操作系统\sjm_OS_project\project03_file\File_Management\bin\Debug\File_Management.exe.config
+C:\Users\sjm\Desktop\大二下\操作系统\sjm_OS_project\project03_file\File_Management\bin\Debug\File_Management.exe
+C:\Users\sjm\Desktop\大二下\操作系统\sjm_OS_project\project03_file\File_Management\bin\Debug\File_Management.pdb
+C:\Users\sjm\Desktop\大二下\操作系统\sjm_OS_project\project03_file\File_Management\obj\Debug\File.csproj.AssemblyReference.cache
+C:\Users\sjm\Desktop\大二下\操作系统\sjm_OS_project\project03_file\File_Management\obj\Debug\File_Management.InputBox.resources
+C:\Users\sjm\Desktop\大二下\操作系统\sjm_OS_project\project03_file\File_Management\obj\Debug\File_Management.WriteName.resources
+C:\Users\sjm\Desktop\大二下\操作系统\sjm_OS_project\project03_file\File_Management\obj\Debug\File_Management.MainWindows.resources
+C:\Users\sjm\Desktop\大二下\操作系统\sjm_OS_project\project03_file\File_Management\obj\Debug\File_Management.Properties.Resources.resources
+C:\Users\sjm\Desktop\大二下\操作系统\sjm_OS_project\project03_file\File_Management\obj\Debug\File.csproj.GenerateResource.cache
+C:\Users\sjm\Desktop\大二下\操作系统\sjm_OS_project\project03_file\File_Management\obj\Debug\File.csproj.CoreCompileInputs.cache
+C:\Users\sjm\Desktop\大二下\操作系统\sjm_OS_project\project03_file\File_Management\obj\Debug\File_Management.exe
+C:\Users\sjm\Desktop\大二下\操作系统\sjm_OS_project\project03_file\File_Management\obj\Debug\File_Management.pdb

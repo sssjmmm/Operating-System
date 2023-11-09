@@ -1,0 +1,128 @@
+@charset "UTF-8";
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 60%;
+}
+.container2{
+  display:flex;
+  /* flex-wrap:wrap; */
+  /* 让区块位置不够就跳到下一行 */
+  flex-direction:row;/*变成横着排列*/
+  /* height:300px; */
+  border:10px solid rgb(192, 98, 167);
+  border-radius: 10px;
+  /* justify-content:center; 居中（沿主轴）*/
+  /* align-items:center;次轴置中 */
+  /* align-content:center; */
+}
+.container3{
+  display:flex;
+  flex-direction:row;/*变成横着排列*/
+  border:2px none rgb(192, 98, 167);
+  border-radius: 10px;
+}
+
+.container4{
+  display:flex;
+  flex-direction:column;/*变成竖着排列*/
+  border:10px solid rgb(192, 98, 167);
+  border-radius: 10px;
+}
+
+html {
+  background: #c6cbc4;
+  font-size: 13px;
+  color: #040615;
+}
+
+.box_algorithm{
+  background: rgb(233, 165, 188);
+  border-radius: 10px;
+  display: inline-block;
+  height: 340px; 
+  margin: 2rem;
+  position: relative;
+  width: 400px;
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+}
+
+.box{
+  background: #fff;
+  border-radius: 10px;
+  display: inline-block;
+  height: 340px;
+  margin: 2rem;
+  position: relative;
+  width: 200px;
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+}
+
+table,
+th,
+td {
+    border: 3px groove #4e2bcc;
+    border-collapse: separate;
+    
+}
+
+table {
+  width: 80%;
+  margin: 10px 10px 10px 10px;
+  /*height: 100px;*/
+}
+
+th,
+td {
+    padding: 10px;
+    width: 150px;
+}
+
+.show{
+  height:650px;
+  overflow-y: scroll;
+  overflow-x: none;
+}
+
+#memory_table{
+  width: 100%;
+  margin: auto;
+  /*height: 650px;*/
+  vertical-align: middle;
+}
+
+.page_footer{
+  display: inline-block;
+  vertical-align: middle;
+  font-size: medium;
+}
+
+
+button{
+  /* top: 12px; */
+  text-align: center;
+  font-family: "Lucida Sans","Microsoft JhengHei";
+  font-size: large;
+  font-weight:bold;
+  position: relative;
+  height: 50px;
+  width: 100px;
+  border: 1px solid #fff;
+  background: /*#80CBC4*/#FDFCD6;
+  border-radius: 6px;
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+}
+
+progress {
+  width: 300px;
+  height: 30px;
+  /* border-radius: 10px; */
+  background-color: #4caf50;
+}
+
+#range_bar {
+  width: 300px;
+  height: 20px;
+}
+

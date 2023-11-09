@@ -1,0 +1,48 @@
+C:\Users\20973\Desktop\文件管理_1950072_郑柯凡\File_Management\bin\Debug\File_Management.exe.config
+C:\Users\20973\Desktop\文件管理_1950072_郑柯凡\File_Management\bin\Debug\File_Management.exe
+C:\Users\20973\Desktop\文件管理_1950072_郑柯凡\File_Management\bin\Debug\File_Management.pdb
+C:\Users\20973\Desktop\文件管理_1950072_郑柯凡\File_Management\obj\Debug\File_Management.MainWindows.resources
+C:\Users\20973\Desktop\文件管理_1950072_郑柯凡\File_Management\obj\Debug\File_Management.Properties.Resources.resources
+C:\Users\20973\Desktop\文件管理_1950072_郑柯凡\File_Management\obj\Debug\File_Management.csproj.GenerateResource.cache
+C:\Users\20973\Desktop\文件管理_1950072_郑柯凡\File_Management\obj\Debug\File_Management.csproj.CoreCompileInputs.cache
+C:\Users\20973\Desktop\文件管理_1950072_郑柯凡\File_Management\obj\Debug\File_Management.exe
+C:\Users\20973\Desktop\文件管理_1950072_郑柯凡\File_Management\obj\Debug\File_Management.pdb
+C:\Users\20973\Desktop\文件管理_1950072_郑柯凡\File_Management\obj\Debug\File_Management.FileInputBox.resources
+C:\Users\20973\Desktop\文件管理_1950072_郑柯凡\File_Management\obj\Debug\File_Management.RenameBox.resources
+C:\Users\20973\Desktop\文件管理_1950072_郑柯凡\File_Management\obj\Debug\File_Management.csproj.AssemblyReference.cache
+C:\TongJi\sophomore2\OperatingSystem\CourseProject\文件管理_1950072_郑柯凡\File_Management\bin\Debug\File_Management.exe.config
+C:\TongJi\sophomore2\OperatingSystem\CourseProject\文件管理_1950072_郑柯凡\File_Management\bin\Debug\File_Management.exe
+C:\TongJi\sophomore2\OperatingSystem\CourseProject\文件管理_1950072_郑柯凡\File_Management\bin\Debug\File_Management.pdb
+C:\TongJi\sophomore2\OperatingSystem\CourseProject\文件管理_1950072_郑柯凡\File_Management\obj\Debug\File_Management.csproj.AssemblyReference.cache
+C:\TongJi\sophomore2\OperatingSystem\CourseProject\文件管理_1950072_郑柯凡\File_Management\obj\Debug\File_Management.FileInputBox.resources
+C:\TongJi\sophomore2\OperatingSystem\CourseProject\文件管理_1950072_郑柯凡\File_Management\obj\Debug\File_Management.RenameBox.resources
+C:\TongJi\sophomore2\OperatingSystem\CourseProject\文件管理_1950072_郑柯凡\File_Management\obj\Debug\File_Management.MainWindows.resources
+C:\TongJi\sophomore2\OperatingSystem\CourseProject\文件管理_1950072_郑柯凡\File_Management\obj\Debug\File_Management.Properties.Resources.resources
+C:\TongJi\sophomore2\OperatingSystem\CourseProject\文件管理_1950072_郑柯凡\File_Management\obj\Debug\File_Management.csproj.GenerateResource.cache
+C:\TongJi\sophomore2\OperatingSystem\CourseProject\文件管理_1950072_郑柯凡\File_Management\obj\Debug\File_Management.csproj.CoreCompileInputs.cache
+C:\TongJi\sophomore2\OperatingSystem\CourseProject\文件管理_1950072_郑柯凡\File_Management\obj\Debug\File_Management.exe
+C:\TongJi\sophomore2\OperatingSystem\CourseProject\文件管理_1950072_郑柯凡\File_Management\obj\Debug\File_Management.pdb
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\文件管理_文件系统_1950072_郑柯凡\File_Management\bin\Debug\File_Management.exe.config
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\文件管理_文件系统_1950072_郑柯凡\File_Management\bin\Debug\File_Management.exe
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\文件管理_文件系统_1950072_郑柯凡\File_Management\bin\Debug\File_Management.pdb
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\文件管理_文件系统_1950072_郑柯凡\File_Management\obj\Debug\File_Management.csproj.AssemblyReference.cache
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\文件管理_文件系统_1950072_郑柯凡\File_Management\obj\Debug\File_Management.FileInputBox.resources
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\文件管理_文件系统_1950072_郑柯凡\File_Management\obj\Debug\File_Management.RenameBox.resources
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\文件管理_文件系统_1950072_郑柯凡\File_Management\obj\Debug\File_Management.MainWindows.resources
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\文件管理_文件系统_1950072_郑柯凡\File_Management\obj\Debug\File_Management.Properties.Resources.resources
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\文件管理_文件系统_1950072_郑柯凡\File_Management\obj\Debug\File_Management.csproj.GenerateResource.cache
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\文件管理_文件系统_1950072_郑柯凡\File_Management\obj\Debug\File_Management.csproj.CoreCompileInputs.cache
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\文件管理_文件系统_1950072_郑柯凡\File_Management\obj\Debug\File_Management.exe
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\文件管理_文件系统_1950072_郑柯凡\File_Management\obj\Debug\File_Management.pdb
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\bin\Debug\File_Management.exe.config
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\bin\Debug\File_Management.exe
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\bin\Debug\File_Management.pdb
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\obj\Debug\File_Management.csproj.AssemblyReference.cache
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\obj\Debug\File_Management.FileInputBox.resources
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\obj\Debug\File_Management.MainWindows.resources
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\obj\Debug\File_Management.Properties.Resources.resources
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\obj\Debug\File_Management.csproj.GenerateResource.cache
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\obj\Debug\File_Management.csproj.CoreCompileInputs.cache
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\obj\Debug\File_Management.exe
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\obj\Debug\File_Management.pdb
+C:\Users\sjm\Desktop\大二下\操作系统\github资料\OS_file 2151299苏家铭\File_Management\obj\Debug\File_Management.WriteName.resources
